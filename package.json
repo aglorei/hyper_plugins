@@ -9,7 +9,7 @@
   "dependencies": {
     "hyperterm-summon": "latest",
     "hyperminimal": "latest",
-    "hyper-frontend-delight": "latest",
+    "hyperterm-hybrid": "latest",
     "hyper-transparent": "latest",
     "hyperline": "latest"
   }
